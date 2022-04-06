@@ -1,5 +1,5 @@
 # Leading club case study 
- Leading club case study for loan dataset 
+ Leading club case study for loan dataset. 
 
 
 ## Table of Contents (as per powerpoint presentation)
